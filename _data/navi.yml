@@ -1,0 +1,16 @@
+- name: ハワイ
+  link: /hawaii.html
+- name: バイク
+  link: /motorcycle.html
+- name: キャンプ
+  link: /camp.html
+- name: 旅行
+  link: /trip.html
+- name: 食道楽
+  link: /food.html
+- name: 読書
+  link: /book.html
+- name: テック
+  link: /tech.html
+- name: その他
+  link: /etc.html

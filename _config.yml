@@ -1,0 +1,13 @@
+latestPosts: 5
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/posts/:year:month:day:title.html"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
