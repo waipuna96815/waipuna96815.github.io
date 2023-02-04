@@ -13,6 +13,7 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/moto-2023gp.html">2023 MotoGP カレンダー</a> （2023年02月05日）</li>
 <li><a href="pages/book-etc.html">読書メモ：ジェローム・ルブリ（坂田雪子 監訳、青木智美 訳）「魔王の島」</a> （2023年02月03日）</li>
 </ul>
 

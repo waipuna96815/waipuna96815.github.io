@@ -15,11 +15,16 @@ title: Waipuna - バイク
     <a class="nav-link link-dark" data-bs-toggle="tab" href="#post-touring" aria-controls="post-touring" aria-selected="false">記事（ツーリング）</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link link-dark" data-bs-toggle="tab" href="#podcast" aria-controls="podcast" aria-selected="false">Podcast</a>
+    <a class="nav-link link-dark" data-bs-toggle="tab" href="#motogp" aria-controls="motogp" aria-selected="false">MotoGP</a>
   </li>
 </ul>
 <div class="tab-content">
   <div class="tab-pane fade show active" id="post-date">
+
+<p class="mb-1">2023年</p>
+<ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/moto-2023gp.html">2023 MotoGP カレンダー</a> （2023年02月05日）</li>
+</ul>
 
 <p class="mb-1">2021年</p>
 <ul class="list-unstyled ms-3 mb-1">
@@ -125,12 +130,9 @@ title: Waipuna - バイク
       {% endif %}
     {% endfor %}
   </div>
-  <div class="tab-pane fade" id="podcast">
+  <div class="tab-pane fade" id="motogp">
     <ul class="list-unstyled ms-3">
-      <li>
-        <a href="https://podcasts.apple.com/jp/podcast/%E3%83%8A%E3%82%AB%E3%83%A4%E3%83%9E-%E3%83%90%E3%82%A4%E3%82%AF%E3%83%A9%E3%82%B8%E3%82%AA/id612297656">ナカヤマ バイクラジオ</a>
-        （紹介記事は<a href="/posts/20170405a.html">こちら</a>）
-      </li>
+      <li><a href="pages/moto-2023gp.html">2023 MotoGP カレンダー</a> （2023年02月05日）</li>
     </ul>
   </div>
 </div>
