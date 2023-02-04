@@ -21,6 +21,7 @@ title: Waipuna - 読書
 <div class="tab-content">
 <div class="tab-pane fade show active" id="post">
 <ul class="list-unstyled ms-3">
+<li><a href="pages/book-etc.html">読書メモ：ジェローム・ルブリ（坂田雪子 監訳、青木智美 訳）「魔王の島」</a> （2023年02月03日）</li>
 <li><a href="pages/book-osawa.html">読書メモ：大沢在昌「炎蛹　新宿鮫５」</a> （2022年12月30日）</li>
 <li><a href="pages/book-osawa.html">読書メモ：大沢在昌「無間人形　新宿鮫４」</a> （2022年12月16日）</li>
 <li><a href="pages/book-greaney.html">読書メモ：マーク・グリーニー（伏見威蕃 訳）「暗殺者の回想」</a> （2022年12月10日）</li>
