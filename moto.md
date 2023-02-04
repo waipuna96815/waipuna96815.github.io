@@ -28,13 +28,13 @@ title: Waipuna - バイク
 
 <p class="mb-1">2021年</p>
 <ul class="list-unstyled ms-3 mb-1">
-<li><a href="pages/motorcycle-byesr.html">さよなら、SR400</a> （2021年08月22日）</li>
-<li><a href="pages/motorcycle-hellobmw.html">こんにちは、BMW R1250RT</a> （2021年08月07日）</li>
+<li><a href="pages/moto-byesr.html">さよなら、SR400</a> （2021年08月22日）</li>
+<li><a href="pages/moto-hellobmw.html">こんにちは、BMW R1250RT</a> （2021年08月07日）</li>
 </ul>
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ms-3 mb-1">
-<li><a href="pages/motorcycle-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>
+<li><a href="pages/moto-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>
 </ul>
 
     <p class="mb-1">2019年</p>
@@ -89,7 +89,7 @@ title: Waipuna - バイク
   <div class="tab-pane fade" id="post-touring">
 <p class="mb-0">北海道</p>
 <ul class="list-unstyled ms-3 mb-1">
-<li><a href="pages/motorcycle-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>
+<li><a href="pages/moto-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>
 </ul>
 
     <p class="mb-0">近畿</p>

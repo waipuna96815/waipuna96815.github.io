@@ -21,8 +21,8 @@ BMW本社から車体が販売店に届き、整備・登録してから納車�
 そして、とうとう8月7日（土）に納車された！
 
 <div class="post-img">
-<a href="/assets/images/motorcycle-hellobmw/IMG_0611.jpeg">
-<img src="/assets/images/motorcycle-hellobmw/IMG_0611.jpeg" width="320px">
+<a href="/assets/images/moto-hellobmw/IMG_0611.jpeg">
+<img src="/assets/images/moto-hellobmw/IMG_0611.jpeg" width="320px">
 </a>
 <p>BMW R1250RT、納車！</p>
 </div>

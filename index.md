@@ -62,8 +62,8 @@ title: Waipuna - トップ
 <li><a href="pages/camp-maiami.html">マイアミ浜オートキャンプ場</a> （2021年09月08日）</li>
 <li><a href="pages/camp-chuzu.html">中主吉川公園バーベキューエリア</a> （2021年09月08日）</li>
 <li><a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2021年09月08日）</li>
-<li><a href="pages/motorcycle-byesr.html">さよなら、SR400</a> （2021年08月22日）</li>
-<li><a href="pages/motorcycle-hellobmw.html">こんにちは、BMW R1250RT</a> （2021年08月07日）</li>
+<li><a href="pages/moto-byesr.html">さよなら、SR400</a> （2021年08月22日）</li>
+<li><a href="pages/moto-hellobmw.html">こんにちは、BMW R1250RT</a> （2021年08月07日）</li>
 <li><a href="pages/book-sakurada.html">読書メモ：櫻田智也　魞沢泉シリーズ</a> （2021年06月07日）</li>
 <li><a href="pages/camp-kasagi.html">笠置キャンプ場</a> （2021年05月17日）</li>
 <li><a href="pages/camp-chimyoko.html">知明湖キャンプ場</a> （2021年05月17日）</li>
@@ -86,7 +86,7 @@ title: Waipuna - トップ
 <li><a href="pages/camp-nara.html">奈良県のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-free.html">無料のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年09月17日）</li>
-<li><a href="pages/motorcycle-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>
+<li><a href="pages/moto-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>
 <li><a href="pages/book-kishi.html">読書メモ：貴志祐介著　防犯探偵・榎本シリーズ</a> （2020年08月12日）</li>
 <li><a href="pages/book-clancy.html">読書メモ：トム・クランシー著　井坂清訳　ジャック・ライアンシリーズ</a> （2020年07月06日）</li>
 <li><a href="pages/book-wakatake.html">読書メモ：若竹七海著　葉村晶シリーズ</a> （2020年07月06日）</li>

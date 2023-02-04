@@ -4,7 +4,7 @@ title: さよなら、SR400
 date: 2021-08-22
 categories: バイク
 ---
-[R1250RTが納車](motorcycle-hellobmw)されて、SR400との２台持ちになった。
+[R1250RTが納車](moto-hellobmw)されて、SR400との２台持ちになった。
 
 SR400は秋に車検。
 車検は通すつもりでいた。
@@ -19,8 +19,8 @@ SR400は秋に車検。
 8月22日（日）、軽トラで運ばれていくSRを寂しく見送った。
 
 <div class="post-img">
-<a href="/assets/images/motorcycle-byesr/IMG_0699.jpeg">
-<img src="/assets/images/motorcycle-byesr/IMG_0699.jpeg" width="320px">
+<a href="/assets/images/moto-byesr/IMG_0699.jpeg">
+<img src="/assets/images/moto-byesr/IMG_0699.jpeg" width="320px">
 </a>
 <p>さよなら、SR400</p>
 </div>
