@@ -23,7 +23,8 @@ title: Waipuna - バイク
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
-<li><a href="pages/moto-2023gp.html">2023 MotoGP カレンダー</a> （2023年02月05日）</li>
+<li><a href="pages/moto-2023gp.html">2023 MotoGP：主な成績</a> （2023年04月09日）</li>
+<li><a href="pages/moto-2023gp.html">2023 MotoGP：カレンダー</a> （2023年02月05日）</li>
 </ul>
 
 <p class="mb-1">2021年</p>
@@ -132,7 +133,8 @@ title: Waipuna - バイク
   </div>
   <div class="tab-pane fade" id="motogp">
     <ul class="list-unstyled ms-3">
-      <li><a href="pages/moto-2023gp.html">2023 MotoGP カレンダー</a> （2023年02月05日）</li>
+      <li><a href="pages/moto-2023gp.html">2023 MotoGP：主な成績</a> （2023年04月09日）</li>
+      <li><a href="pages/moto-2023gp.html">2023 MotoGP：カレンダー</a> （2023年02月05日）</li>
     </ul>
   </div>
 </div>
