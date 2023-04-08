@@ -13,6 +13,9 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/book-higashino.html">読書メモ：東野圭吾「魔力の胎動」</a> （2023年04月07日）</li>
+<li><a href="pages/book-ogiwara.html">読書メモ：荻原浩「ワンダーランド急行」</a> （2023年04月01日）</li>
+<li><a href="pages/book-higashino.html">読書メモ：東野圭吾「ラプラスの魔女」</a> （2023年03月25日）</li>
 <li><a href="pages/moto-2023gp.html">2023 MotoGP カレンダー</a> （2023年02月05日）</li>
 <li><a href="pages/book-etc.html">読書メモ：ジェローム・ルブリ（坂田雪子 監訳、青木智美 訳）「魔王の島」</a> （2023年02月03日）</li>
 </ul>
