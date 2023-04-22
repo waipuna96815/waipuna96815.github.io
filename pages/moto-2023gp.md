@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 2023 MotoGP
-date: 2023-04-09
+date: 2023-04-22
 categories: バイク
 ---
 
 ### 主な成績
-（2023年4月2日現在）
+（2023年4月16日現在）
 
 <table class="table table-bordered table-striped">
   <tr align="center">
@@ -16,46 +16,79 @@ categories: バイク
     <th>Points</th>
     <th>第1戦</th>
     <th>第2戦</th>
+    <th>第3戦</th>
   </tr>
   <tr align="center">
     <td>1位</td>
     <td align="left">Marco Bezzecchi（マルコ・ベッツェッキ）#72 イタリア <a href="https://www.motogp.com/ja/riders/profile/Marco+Bezzecchi"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Ducati / Mooney VR46 Racing Team</td>
-    <td>50</td>
+    <td>64</td>
     <td>3位</td>
     <td>1位</td>
+    <td>6位</td>
   </tr>
   <tr align="center">
     <td>2位</td>
     <td align="left">Francesco Bagnaia（フランチェスコ・バニャイア）#1 イタリア <a href="https://www.motogp.com/ja/riders/profile/Francesco+Bagnaia"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Ducati / Ducati Lenovo Team</td>
-    <td>41</td>
+    <td>53</td>
     <td>1位</td>
     <td>16位</td>
+    <td>-</td>
   </tr>
   <tr align="center">
     <td>3位</td>
-    <td align="left">Johann Zarco（ヨハン・ザルコ）#5 フランス <a href="https://www.motogp.com/ja/riders/profile/Johann+Zarco"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
-    <td align="left">Ducati / Prima Pramac Racing</td>
-    <td>35</td>
-    <td>4位</td>
-    <td>2位</td>
+    <td align="left">Alex Rins（アレックス・リンス）#42 スペイン <a href="https://www.motogp.com/ja/riders/profile/Alex+Rins"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">Honda / LCR Honda Castrol</td>
+    <td>47</td>
+    <td>10位</td>
+    <td>9位</td>
+    <td>1位</td>
   </tr>
   <tr align="center">
     <td>4位</td>
+    <td align="left">Maverick Viñales（マーベリック・ビニャーレス）#12 スペイン <a href="https://www.motogp.com/ja/riders/profile/Maverick+Viñales"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">Aprilia / Aprilia Racing</td>
+    <td>45</td>
+    <td>2位</td>
+    <td>12位</td>
+    <td>4位</td>
+  </tr>
+  <tr align="center">
+    <td>5位</td>
+    <td align="left">Johann Zarco（ヨハン・ザルコ）#5 フランス <a href="https://www.motogp.com/ja/riders/profile/Johann+Zarco"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">Ducati / Prima Pramac Racing</td>
+    <td>44</td>
+    <td>4位</td>
+    <td>2位</td>
+    <td>7位</td>
+  </tr>
+  <tr align="center">
+    <td>6位</td>
+    <td align="left">Luca Marini（ルカ・マリーニ）#10 イタリア <a href="https://www.motogp.com/ja/riders/profile/Luca+Marini"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">Ducati / Mooney VR46 Racing Team</td>
+    <td>38</td>
+    <td>-</td>
+    <td>8位</td>
+    <td>2位</td>
+  </tr>
+  <tr align="center">
+    <td>7位</td>
+    <td align="left">Fabio Quartararo（ファビオ・クアルタラロ）#20 フランス <a href="https://www.motogp.com/ja/riders/profile/Fabio+Quartararo"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">Yamaha / Monster Energy Yamaha MotoGP</td>
+    <td>34</td>
+    <td>8位</td>
+    <td>7位</td>
+    <td>3位</td>
+  </tr>
+  <tr align="center">
+    <td>8位</td>
     <td align="left">Alex Marquez（アレックス・マルケス）#73 スペイン <a href="https://www.motogp.com/ja/riders/profile/Alex+Marquez"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Ducati / Gresini Racing MotoGP</td>
     <td>33</td>
     <td>5位</td>
     <td>3位</td>
-  </tr>
-  <tr align="center">
-    <td>5位</td>
-    <td align="left">Maverick Viñales（マーベリック・ビニャーレス）#12 スペイン <a href="https://www.motogp.com/ja/riders/profile/Maverick+Viñales"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
-    <td align="left">Aprilia / Aprilia Racing</td>
-    <td>32</td>
-    <td>2位</td>
-    <td>12位</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -84,7 +117,7 @@ categories: バイク
     <td>第３戦</td>
     <td>4月16日</td>
     <td>Americas GP（アメリカ）</td>
-    <td></td>
+    <td>リンス / マリーニ / クアルタラロ</td>
   </tr>
   <tr align="center">
     <td>第４戦</td>
