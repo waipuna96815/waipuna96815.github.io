@@ -13,6 +13,7 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/book-asada.html">読書メモ：浅田次郎「大名倒産」</a> （2023年04月27日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：アメリカGPの成績を追加</a> （2023年04月22日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：主な成績</a> （2023年04月09日）</li>
 <li><a href="pages/book-higashino.html">読書メモ：東野圭吾「魔力の胎動」</a> （2023年04月07日）</li>

@@ -21,6 +21,7 @@ title: Waipuna - 読書
 <div class="tab-content">
 <div class="tab-pane fade show active" id="post">
 <ul class="list-unstyled ms-3">
+<li><a href="pages/book-asada.html">読書メモ：浅田次郎「大名倒産」</a> （2023年04月27日）</li>
 <li><a href="pages/book-higashino.html">読書メモ：東野圭吾「魔力の胎動」</a> （2023年04月07日）</li>
 <li><a href="pages/book-ogiwara.html">読書メモ：荻原浩「ワンダーランド急行」</a> （2023年04月01日）</li>
 <li><a href="pages/book-higashino.html">読書メモ：東野圭吾「ラプラスの魔女」</a> （2023年03月25日）</li>
