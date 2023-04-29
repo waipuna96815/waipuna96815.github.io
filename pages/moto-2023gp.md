@@ -150,10 +150,10 @@ categories: バイク
     <td></td>
   </tr>
   <tr align="center">
-    <td>第９戦</td>
-    <td>7月9日</td>
-    <td>Kazakhstan GP（カザフスタン）</td>
-    <td></td>
+    <td><strike>第９戦</strike></td>
+    <td><strike>7月9日</strike></td>
+    <td><strike>Kazakhstan GP（カザフスタン）</strike></td>
+    <td>＜中止＞</td>
   </tr>
   <tr align="center">
     <td>第10戦</td>
