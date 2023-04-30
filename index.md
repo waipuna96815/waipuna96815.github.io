@@ -13,9 +13,10 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/moto-2023gp.html">MotoGP：第4戦スペインGPの成績を追加</a> （2023年04月30日）</li>
 <li><a href="pages/book-etc.html#takase">読書メモ：高瀬隼子「おいしいごはんが食べられますように」</a> （2023年04月29日）</li>
 <li><a href="pages/book-asada.html">読書メモ：浅田次郎「大名倒産」</a> （2023年04月27日）</li>
-<li><a href="pages/moto-2023gp.html">MotoGP：アメリカGPの成績を追加</a> （2023年04月22日）</li>
+<li><a href="pages/moto-2023gp.html">MotoGP：第3戦アメリカGPの成績を追加</a> （2023年04月22日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：主な成績</a> （2023年04月09日）</li>
 <li><a href="pages/book-higashino.html">読書メモ：東野圭吾「魔力の胎動」</a> （2023年04月07日）</li>
 <li><a href="pages/book-ogiwara.html">読書メモ：荻原浩「ワンダーランド急行」</a> （2023年04月01日）</li>

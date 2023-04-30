@@ -23,7 +23,8 @@ title: Waipuna - バイク
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
-<li><a href="pages/moto-2023gp.html">MotoGP：アメリカGPの成績を追加</a> （2023年04月22日）</li>
+<li><a href="pages/moto-2023gp.html">MotoGP：第4戦スペインGPの成績を追加</a> （2023年04月30日）</li>
+<li><a href="pages/moto-2023gp.html">MotoGP：第3戦アメリカGPの成績を追加</a> （2023年04月22日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：主な成績</a> （2023年04月09日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：2023 カレンダー</a> （2023年02月05日）</li>
 </ul>
