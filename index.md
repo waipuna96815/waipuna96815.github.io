@@ -13,6 +13,7 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/book-etc.html#go">読書メモ：呉勝浩「爆弾」</a> （2023年05月07日）</li>
 <li><a href="pages/book-etc.html#kaji">読書メモ：梶よう子「三年長屋」</a> （2023年05月05日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：第4戦スペインGPの成績を追加</a> （2023年04月30日）</li>
 <li><a href="pages/book-etc.html#takase">読書メモ：高瀬隼子「おいしいごはんが食べられますように」</a> （2023年04月29日）</li>

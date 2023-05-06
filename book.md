@@ -21,6 +21,7 @@ title: Waipuna - 読書
 <div class="tab-content">
 <div class="tab-pane fade show active" id="post">
 <ul class="list-unstyled ms-3">
+<li><a href="pages/book-etc.html#go">読書メモ：呉勝浩「爆弾」</a> （2023年05月07日）</li>
 <li><a href="pages/book-etc.html#kaji">読書メモ：梶よう子「三年長屋」</a> （2023年05月05日）</li>
 <li><a href="pages/book-etc.html#takase">読書メモ：高瀬隼子「おいしいごはんが食べられますように」</a> （2023年04月29日）</li>
 <li><a href="pages/book-asada.html">読書メモ：浅田次郎「大名倒産」</a> （2023年04月27日）</li>
