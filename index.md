@@ -51,7 +51,7 @@ title: Waipuna - トップ
 <li><a href="pages/book-osawa.html">読書メモ：大沢在昌</a> （2022年10月03日）</li>
 <li><a href="pages/book-higashino.html">読書メモ：東野圭吾</a> （2022年10月02日）</li>
 <li><a href="pages/book-horowitz.html">読書メモ：アンソニー・ホロヴィッツ（山田蘭 訳）</a> （2022年09月30日）</li>
-<li><a href="pages/book-etc.html">読書メモ：その他</a> （2022年09月15日）</li>
+<li><a href="pages/book-saijo.html">読書メモ：西條奈加「隠居すごろく」</a> （2022年09月15日）</li>
 <li><a href="pages/book-konno3.html">読書メモ：今野敏　任侠シリーズ</a> （2022年09月11日）</li>
 <li><a href="pages/book-mori.html">読書メモ：森博嗣</a> （2022年08月22日）</li>
 <li><a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2022年08月10日）</li>
