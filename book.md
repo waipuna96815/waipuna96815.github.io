@@ -21,6 +21,7 @@ title: Waipuna - 読書
 <div class="tab-content">
 <div class="tab-pane fade show active" id="post">
 <ul class="list-unstyled ms-3">
+<li><a href="pages/book-etc.html#yonezawa">読書メモ：米澤穂信「黒牢城」</a> （2023年05月24日）</li>
 <li><a href="pages/book-saijo.html">読書メモ：西條奈加「わかれ縁」</a> （2023年05月18日）</li>
 <li><a href="pages/book-etc.html#go">読書メモ：呉勝浩「爆弾」</a> （2023年05月07日）</li>
 <li><a href="pages/book-etc.html#kaji">読書メモ：梶よう子「三年長屋」</a> （2023年05月05日）</li>
