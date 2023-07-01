@@ -12,10 +12,10 @@ title: Waipuna - 読書
     <a class="nav-link link-dark active" data-bs-toggle="tab" href="#post" aria-controls="post" aria-selected="true">記事</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link link-dark" data-bs-toggle="tab" href="#podcast" aria-controls="podcast" aria-selected="false">Podcast</a>
+    <a class="nav-link link-dark" data-bs-toggle="tab" href="#author" aria-controls="author" aria-selected="false">著者</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link link-dark" data-bs-toggle="tab" href="#youtube" aria-controls="youtube" aria-selected="false">YouTube</a>
+    <a class="nav-link link-dark" data-bs-toggle="tab" href="#genre" aria-controls="genre" aria-selected="false">ジャンル</a>
   </li>
 </ul>
 <div class="tab-content">
@@ -77,10 +77,106 @@ title: Waipuna - 読書
 <li><a href="pages/book-wakatake.html">読書メモ：若竹七海　葉村晶シリーズ</a> （2020年07月06日）</li>
 </ul>
 </div>
-  <div class="tab-pane fade" id="podcast">
-    <p class="ms-3">Coming soon</p>
+  <div class="tab-pane fade" id="author">
+    <p class="mb-1">あ行</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-etc.html#aizawa">相沢 沙呼（あいざわ さこ）</a></li>
+      <li><a href="pages/book-etc.html#aoyagi">青柳 碧人（あおやぎ あいと）</a></li>
+      <li><a href="pages/book-asada.html">浅田 次郎（あさだ じろう）</a></li>
+      <li><a href="pages/book-etc.html#atsukawa">阿津川 辰海（あつかわ たつみ）</a></li>
+      <li><a href="pages/book-etc.html#awasaka">泡坂 妻夫（あわさか つまお）</a></li>
+      <li><a href="pages/book-isaka.html">伊坂 幸太郎（いさか こうたろう）</a></li>
+      <li><a href="pages/book-etc.html#ishimochi">石持 浅海（いしもち あさみ）</a></li>
+      <li><a href="pages/book-imamura.html">今村 翔吾（いまむら しょうご）くらまし屋稼業シリーズ</a></li>
+      <li><a href="pages/book-etc.html#utada">歌田 年（うただ とし）</a></li>
+      <li><a href="pages/book-okura.html">大倉 崇裕（おおくら たかひろ）</a></li>
+      <li><a href="pages/book-osawa.html">大沢 在昌（おおさわ ありまさ）</a></li>
+      <li><a href="pages/book-oyama.html">大山 誠一郎（おおやま せいいちろう）</a></li>
+      <li><a href="pages/book-ogiwara.html">荻原 浩（おぎわら ひろし）</a></li>
+      <li><a href="pages/book-etc.html#onodera">小野寺 史宣（おのでら ふみのり）</a></li>
+      <li><a href="pages/book-origami.html">織守 きょうや（おりがみ きょうや）</a></li>
+    </ul>
+    <p class="mb-1">か行</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-etc.html#kakiya">垣谷 美雨（かきや みう）</a></li>
+      <li><a href="pages/book-etc.html#kaji">梶 よう子（かじ ようこ）</a></li>
+      <li><a href="pages/book-kishi.html">貴志 祐介（きし ゆうすけ）防犯探偵・榎本シリーズ</a></li>
+      <li><a href="pages/book-konno2.html">今野 敏（こんの びん）</a></li>
+      <li><a href="pages/book-konno.html">今野 敏（こんの びん）隠蔽捜査シリーズ</a></li>
+      <li><a href="pages/book-konno3.html">今野 敏（こんの びん）任侠シリーズ</a></li>
+      <li><a href="pages/book-etc.html#go">呉 勝浩（ご かつひろ）</a></li>
+    </ul>
+    <p class="mb-1">さ行</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-saijo.html">西條 奈加（さいじょう なか）</a></li>
+      <li><a href="pages/book-saeki.html">佐伯 泰英（さえき やすひで）居眠り磐音 決定版シリーズ</a></li>
+      <li><a href="pages/book-saeki2.html">佐伯 泰英（さえき やすひで）照降町四季シリーズ</a></li>
+      <li><a href="pages/book-etc.html#sakagami">坂上 泉（さかがみ いずみ）</a></li>
+      <li><a href="pages/book-sakurada.html">櫻田 智也（さくらだ ともや）魞沢泉シリーズ</a></li>
+      <li><a href="pages/book-etc.html#shinkawa">新川 帆立（しんかわ ほたて）</a></li>
+    </ul>
+    <p class="mb-1">た行</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-etc.html#takase">高瀬 隼子（たかせ じゅんこ）</a></li>
+      <li><a href="pages/book-etc.html#chinen">知念 実希人（ちねん みきと）</a></li>
+      <li><a href="pages/book-etc.html#tsumura">津村 記久子（つむら きくこ）</a></li>
+      <li><a href="pages/book-etc.html#togami">砥上 裕將（とがみ ひろまさ）</a></li>
+      <li><a href="pages/book-etc.html#tomonaga">朝永 理人（ともなが りと）</a></li>
+      <li><a href="pages/book-etc.html#toyoda">豊田 巧（とよだ たくみ）</a></li>
+    </ul>
+    <p class="mb-1">な行</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-etc.html#nagai">永井紗耶子（ながい さやこ）</a></li>
+      <li><a href="pages/book-etc.html#nagaura">長浦 京（ながうら きょう）</a></li>
+      <li><a href="pages/book-etc.html#nishio">西尾 維新（にしお いしん）</a></li>
+      <li><a href="pages/book-etc.html#nishimura">西村 京太郎（にしむら きょうたろう）</a></li>
+    </ul>
+    <p class="mb-1">は行</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-hashimoto.html">橋本 長道（はしもと ちょうどう）</a></li>
+      <li><a href="pages/book-hase.html">馳星 周（はせ せいしゅう）</a></li>
+      <li><a href="pages/book-etc.html#harada">原田 マハ（はらだ まは）</a></li>
+      <li><a href="pages/book-etc.html#hayasaka">早坂 吝（はやさか やぶさか）</a></li>
+      <li><a href="pages/book-etc.html#hayami">早見 和真（はやみ かずまさ）</a></li>
+      <li><a href="pages/book-ban.html">幡 大介（ばん だいすけ）八巻卯之吉 放浪記 大富豪同心</a></li>
+      <li><a href="pages/book-etc.html#higashikawa">東川 篤哉（ひがしがわ とくや）</a></li>
+      <li><a href="pages/book-higashino.html">東野 圭吾（ひがしの けいご）</a></li>
+      <li><a href="pages/book-etc.html#horiuchi">堀内 都喜子（ほりうち ときこ）</a></li>
+    </ul>
+    <p class="mb-1">ま行</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-mayama.html">真山 仁（まやま じん）</a></li>
+      <li><a href="pages/book-miyabe.html">宮部 みゆき（みやべ みゆき）現代小説</a></li>
+      <li><a href="pages/book-miyabe2.html">宮部 みゆき（みやべ みゆき）時代小説</a></li>
+      <li><a href="pages/book-mori.html">森 博嗣（もり ひろし）</a></li>
+      <li><a href="pages/book-etc.html#morimi">森見 登美彦（もりみ とみひこ）</a></li>
+    </ul>
+    <p class="mb-1">や行</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-etc.html#yaguchi">矢口 高雄（やぐち たかお）</a></li>
+      <li><a href="pages/book-etc.html#yamada">山田 香織（やまだ かおり）</a></li>
+      <li><a href="pages/book-yoshida.html">吉田 修一（よしだ しゅういち）</a></li>
+      <li><a href="pages/book-etc.html#yonezawa">米澤 穂信（よねざわ ほのぶ）</a></li>
+    </ul>
+    <p class="mb-1">わ行</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-wakatake.html">若竹 七海（わかたけ ななみ）葉村晶シリーズ</a></li>
+    </ul>
+    <p class="mb-1">海外（ABC順）</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-etc.html#adams">ダグラス・アダムス（安原和見 訳）</a></li>
+      <li><a href="pages/book-etc.html#carreyrou">ジョン・キャリールー（関美和、櫻井祐子 訳）</a></li>
+      <li><a href="pages/book-clancy.html">トム・クランシー（井坂清 訳）ジャック・ライアンシリーズ</a></li>
+      <li><a href="pages/book-etc.html#deaver">ジェフリー・ディーヴァー（土屋晃 訳）</a></li>
+      <li><a href="pages/book-forsyth.html">フレデリック・フォーサイス（篠原慎 訳）</a></li>
+      <li><a href="pages/book-greaney.html">マーク・グリーニー（伏見威蕃 訳）グレイマンシリーズ</a></li>
+      <li><a href="pages/book-horowitz.html">アンソニー・ホロヴィッツ（山田蘭 訳）</a></li>
+      <li><a href="pages/book-liu.html">劉 慈欣（りゅう じきん）（立原透耶 監修、大森望、光吉さくら、ワン・チャイ 訳）三体</a></li>
+      <li><a href="pages/book-etc.html#loubry">ジェローム・ルブリ（坂田雪子 監訳、青木智美 訳）</a></li>
+      <li><a href="pages/book-etc.html#manzini">アントニオ・マンジーニ（天野泰明 訳）</a></li>
+    </ul>
   </div>
-  <div class="tab-pane fade" id="youtube">
+  <div class="tab-pane fade" id="genre">
     <p class="ms-3">Coming soon</p>
   </div>
 </div>
