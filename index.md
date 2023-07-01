@@ -13,6 +13,7 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/book-miyabe2.html">読書メモ：宮部みゆき「子宝船」</a> （2023年07月01日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：第8戦オランダGPの成績を追加</a> （2023年07月01日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：第7戦ドイツGPの成績を追加</a> （2023年06月18日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：第6戦イタリアGPの成績を追加</a> （2023年06月12日）</li>
