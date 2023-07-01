@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2023 MotoGP
-date: 2023-07-01
+date: 2023-06-25
 categories: バイク
 ---
 
