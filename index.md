@@ -13,6 +13,7 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/moto-2023gp.html">MotoGP：第9戦イギリスGPと第10戦オーストリアGPの成績を追加</a> （2023年08月28日）</li>
 <li><a href="pages/book-imamura.html#8">読書メモ：今村翔吾「風待ちの四傑」</a> （2023年08月27日）</li>
 <li><a href="pages/book-etc.html#kobayashi">読書メモ：小林武彦「生物はなぜ死ぬのか」</a> （2023年08月25日）</li>
 <li><a href="pages/book-etc.html#kimoto">読書メモ：木元哉多「遺産相続を放棄します」</a> （2023年07月25日）</li>
