@@ -114,10 +114,12 @@ title: Waipuna - 読書
       <li><a href="pages/book-etc.html#kakiya">垣谷 美雨（かきや みう）</a></li>
       <li><a href="pages/book-etc.html#kaji">梶 よう子（かじ ようこ）</a></li>
       <li><a href="pages/book-kishi.html">貴志 祐介（きし ゆうすけ）防犯探偵・榎本シリーズ</a></li>
+      <li><a href="pages/book-etc.html#kimoto">木元 哉多（きもと かなた）</a></li>
       <li><a href="pages/book-konno2.html">今野 敏（こんの びん）</a></li>
       <li><a href="pages/book-konno.html">今野 敏（こんの びん）隠蔽捜査シリーズ</a></li>
       <li><a href="pages/book-konno3.html">今野 敏（こんの びん）任侠シリーズ</a></li>
       <li><a href="pages/book-etc.html#go">呉 勝浩（ご かつひろ）</a></li>
+      <li><a href="pages/book-etc.html#kobayashi">小林 武彦（こばやし たけひこ）</a></li>
     </ul>
     <p class="mb-1">さ行</p>
     <ul class="list-unstyled ms-3">
