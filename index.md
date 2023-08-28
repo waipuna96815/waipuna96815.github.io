@@ -13,6 +13,9 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/book-imamura.html#8">読書メモ：今村翔吾「風待ちの四傑」</a> （2023年08月27日）</li>
+<li><a href="pages/book-etc.html#kobayashi">読書メモ：小林武彦「生物はなぜ死ぬのか」</a> （2023年08月25日）</li>
+<li><a href="pages/book-etc.html#kimoto">読書メモ：木元哉多「遺産相続を放棄します」</a> （2023年07月25日）</li>
 <li><a href="pages/book-yoshida.html">読書メモ：吉田修一「太陽は動かない」</a> （2023年06月25日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：第8戦オランダGPの成績を追加</a> （2023年06月25日）</li>
 <li><a href="pages/book-miyabe2.html">読書メモ：宮部みゆき「子宝船」</a> （2023年06月18日）</li>
