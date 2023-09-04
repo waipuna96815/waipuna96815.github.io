@@ -364,7 +364,7 @@ categories: バイク
     <td>第11戦</td>
     <td>9月3日</td>
     <td>Catalan GP（スペイン・カタルーニャ）</td>
-    <td></td>
+    <td>エスパルガロ / バニャイア / マルティン</td>
   </tr>
   <tr align="center">
     <td>第12戦</td>
