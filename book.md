@@ -22,6 +22,8 @@ title: Waipuna - 読書
   <div class="tab-pane fade show active" id="post">
     <p class="mb-1">2023年</p>
     <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-etc.html#somei">染井為人「悪い夏」</a> （2023年09月02日）</li>
+      <li><a href="pages/book-etc.html#nagaimimi">永井みみ「ミシンと金魚」</a> （2023年08月31日）</li>
       <li><a href="pages/book-imamura.html#8">今村翔吾「風待ちの四傑」</a> （2023年08月27日）</li>
       <li><a href="pages/book-etc.html#kobayashi">小林武彦「生物はなぜ死ぬのか」</a> （2023年08月25日）</li>
       <li><a href="pages/book-etc.html#kimoto">木元哉多「遺産相続を放棄します」</a> （2023年07月25日）</li>
@@ -129,6 +131,7 @@ title: Waipuna - 読書
       <li><a href="pages/book-etc.html#sakagami">坂上 泉（さかがみ いずみ）</a></li>
       <li><a href="pages/book-sakurada.html">櫻田 智也（さくらだ ともや）魞沢泉シリーズ</a></li>
       <li><a href="pages/book-etc.html#shinkawa">新川 帆立（しんかわ ほたて）</a></li>
+      <li><a href="pages/book-etc.html#somei">染井 為人（そめい ためひと）</a></li>
     </ul>
     <p class="mb-1">た行</p>
     <ul class="list-unstyled ms-3">
@@ -142,6 +145,7 @@ title: Waipuna - 読書
     <p class="mb-1">な行</p>
     <ul class="list-unstyled ms-3">
       <li><a href="pages/book-etc.html#nagai">永井紗耶子（ながい さやこ）</a></li>
+      <li><a href="pages/book-etc.html#nagaimimi">永井みみ（ながい みみ）</a></li>
       <li><a href="pages/book-etc.html#nagaura">長浦 京（ながうら きょう）</a></li>
       <li><a href="pages/book-etc.html#nishio">西尾 維新（にしお いしん）</a></li>
       <li><a href="pages/book-etc.html#nishimura">西村 京太郎（にしむら きょうたろう）</a></li>
