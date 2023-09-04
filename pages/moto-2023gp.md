@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 2023 MotoGP
-date: 2023-08-28
+date: 2023-09-04
 categories: バイク
 ---
 
 ### 主な成績
-（2023年6月25日現在）
+（2023年9月03日現在）
 
 <table class="table table-bordered table-striped">
   <tr align="center">
@@ -24,12 +24,13 @@ categories: バイク
     <th>第8戦</th>
     <th>第9戦</th>
     <th>第10戦</th>
+    <th>第11戦</th>
   </tr>
   <tr align="center">
     <td>1位</td>
     <td align="left">#1 &nbsp; Francesco Bagnaia（フランチェスコ・バニャイア） イタリア <a href="https://www.motogp.com/ja/riders/francesco-bagnaia/66b78301-5826-4986-b11e-fa68a7bd77a7"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Ducati / Ducati Lenovo Team</td>
-    <td>251</td>
+    <td>260</td>
     <td>1位</td>
     <td>16位</td>
     <td>-</td>
@@ -40,12 +41,13 @@ categories: バイク
     <td>1位</td>
     <td>2位</td>
     <td>1位</td>
+    <td>-</td>
   </tr>
   <tr align="center">
     <td>2位</td>
     <td align="left">#89 &nbsp; Jorge Martin（ホルヘ・マルティン） スペイン <a href="https://www.motogp.com/ja/riders/jorge-martin/5b9af34e-da94-4ca2-9c4c-6be0fc8b1bbc"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Ducati / Prima Pramac Racing</td>
-    <td>189</td>
+    <td>210</td>
     <td>-</td>
     <td>5位</td>
     <td>-</td>
@@ -56,12 +58,13 @@ categories: バイク
     <td>5位</td>
     <td>6位</td>
     <td>7位</td>
+    <td>3位</td>
   </tr>
   <tr align="center">
     <td>3位</td>
     <td align="left">#72 &nbsp; Marco Bezzecchi（マルコ・ベッツェッキ） イタリア <a href="https://www.motogp.com/ja/riders/marco-bezzecchi/e622ec5b-5ccf-457c-a67f-ec028f0ddf6e"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Ducati / Mooney VR46 Racing Team</td>
-    <td>183</td>
+    <td>189</td>
     <td>3位</td>
     <td>1位</td>
     <td>6位</td>
@@ -72,12 +75,13 @@ categories: バイク
     <td>2位</td>
     <td>-</td>
     <td>3位</td>
+    <td>12位</td>
   </tr>
   <tr align="center">
     <td>4位</td>
     <td align="left">#33 &nbsp; Brad Binder（ブラッド・ビンダー） 南アフリカ <a href="https://www.motogp.com/ja/riders/brad-binder/ade5ef32-01ea-487c-95ca-491544a668ed"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">KTM / Red Bull KTM Factory Racing</td>
-    <td>160</td>
+    <td>166</td>
     <td>6位</td>
     <td>17位</td>
     <td>13位</td>
@@ -88,44 +92,13 @@ categories: バイク
     <td>4位</td>
     <td>3位</td>
     <td>2位</td>
+    <td>-</td>
   </tr>
   <tr align="center">
     <td>5位</td>
-    <td align="left">#5 &nbsp; Johann Zarco（ヨハン・ザルコ） フランス <a href="https://www.motogp.com/ja/riders/johann-zarco/4a439bde-305a-4995-b3e7-783fa99f784a"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
-    <td align="left">Ducati / Prima Pramac Racing</td>
-    <td>125</td>
-    <td>4位</td>
-    <td>2位</td>
-    <td>7位</td>
-    <td>-</td>
-    <td>3位</td>
-    <td>3位</td>
-    <td>3位</td>
-    <td>-</td>
-    <td>9位</td>
-    <td>13位</td>
-  </tr>
-  <tr align="center">
-    <td>6位</td>
-    <td align="left">#10 &nbsp; Luca Marini（ルカ・マリーニ） イタリア <a href="https://www.motogp.com/ja/riders/luca-marini/5dfc20db-c3c4-4ecd-9c7c-f6cfd042031a"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
-    <td align="left">Ducati / Mooney VR46 Racing Team</td>
-    <td>120</td>
-    <td>-</td>
-    <td>8位</td>
-    <td>2位</td>
-    <td>6位</td>
-    <td>-</td>
-    <td>4位</td>
-    <td>5位</td>
-    <td>7位</td>
-    <td>7位</td>
-    <td>4位</td>
-  </tr>
-  <tr align="center">
-    <td>7位</td>
     <td align="left">#41 &nbsp; Aleix Espargaro（アレイシ・エスパルガロ） スペイン <a href="https://www.motogp.com/ja/riders/aleix-espargaro/a2f51450-cb43-4d32-8eef-bda9ebb435ed"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Aprilia / Aprilia Racing</td>
-    <td>117</td>
+    <td>154</td>
     <td>9位</td>
     <td>15位</td>
     <td>-</td>
@@ -136,44 +109,47 @@ categories: バイク
     <td>3位</td>
     <td>1位</td>
     <td>9位</td>
+    <td>1位</td>
   </tr>
   <tr align="center">
-    <td>8位</td>
-    <td align="left">#43 &nbsp; Jack Miller（ジャック・ミラー） オーストラリア <a href="https://www.motogp.com/ja/riders/jack-miller/b0c1fea6-2dd5-4e26-8a18-0ac9fe6870e4"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
-    <td align="left">KTM / Red Bull KTM Factory Racing</td>
-    <td>96</td>
-    <td>7位</td>
     <td>6位</td>
+    <td align="left">#5 &nbsp; Johann Zarco（ヨハン・ザルコ） フランス <a href="https://www.motogp.com/ja/riders/johann-zarco/4a439bde-305a-4995-b3e7-783fa99f784a"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">Ducati / Prima Pramac Racing</td>
+    <td>141</td>
+    <td>4位</td>
+    <td>2位</td>
+    <td>7位</td>
     <td>-</td>
     <td>3位</td>
+    <td>3位</td>
+    <td>3位</td>
     <td>-</td>
-    <td>7位</td>
-    <td>6位</td>
-    <td>-</td>
-    <td>8位</td>
-    <td>15位</td>
-  </tr>
-  <tr align="center">
     <td>9位</td>
-    <td align="left">#73 &nbsp; Alex Marquez（アレックス・マルケス） スペイン <a href="https://www.motogp.com/ja/riders/alex-marquez/41195f0f-9817-4a4d-913e-c1fbbb351d9b"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
-    <td align="left">Ducati / Gresini Racing MotoGP</td>
-    <td>92</td>
-    <td>5位</td>
-    <td>3位</td>
-    <td>-</td>
-    <td>8位</td>
-    <td>-</td>
-    <td>-</td>
-    <td>7位</td>
-    <td>6位</td>
-    <td>-</td>
-    <td>5位</td>
+    <td>13位</td>
+    <td>4位</td>
   </tr>
   <tr align="center">
-    <td>10位</td>
+    <td>7位</td>
+    <td align="left">#10 &nbsp; Luca Marini（ルカ・マリーニ） イタリア <a href="https://www.motogp.com/ja/riders/luca-marini/5dfc20db-c3c4-4ecd-9c7c-f6cfd042031a"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">Ducati / Mooney VR46 Racing Team</td>
+    <td>125</td>
+    <td>-</td>
+    <td>8位</td>
+    <td>2位</td>
+    <td>6位</td>
+    <td>-</td>
+    <td>4位</td>
+    <td>5位</td>
+    <td>7位</td>
+    <td>7位</td>
+    <td>4位</td>
+    <td>11位</td>
+  </tr>
+  <tr align="center">
+    <td>8位</td>
     <td align="left">#12 &nbsp; Maverick Viñales（マーベリック・ビニャーレス） スペイン <a href="https://www.motogp.com/ja/riders/maverick-vinales/71df6f0d-51c3-4cdb-9f5c-51939e6f33f2"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Aprilia / Aprilia Racing</td>
-    <td>86</td>
+    <td>113</td>
     <td>2位</td>
     <td>12位</td>
     <td>4位</td>
@@ -184,12 +160,47 @@ categories: バイク
     <td>-</td>
     <td>5位</td>
     <td>6位</td>
+    <td>2位</td>
+  </tr>
+  <tr align="center">
+    <td>9位</td>
+    <td align="left">#43 &nbsp; Jack Miller（ジャック・ミラー） オーストラリア <a href="https://www.motogp.com/ja/riders/jack-miller/b0c1fea6-2dd5-4e26-8a18-0ac9fe6870e4"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">KTM / Red Bull KTM Factory Racing</td>
+    <td>104</td>
+    <td>7位</td>
+    <td>6位</td>
+    <td>-</td>
+    <td>3位</td>
+    <td>-</td>
+    <td>7位</td>
+    <td>6位</td>
+    <td>-</td>
+    <td>8位</td>
+    <td>15位</td>
+    <td>8位</td>
+  </tr>
+  <tr align="center">
+    <td>10位</td>
+    <td align="left">#73 &nbsp; Alex Marquez（アレックス・マルケス） スペイン <a href="https://www.motogp.com/ja/riders/alex-marquez/41195f0f-9817-4a4d-913e-c1fbbb351d9b"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">Ducati / Gresini Racing MotoGP</td>
+    <td>102</td>
+    <td>5位</td>
+    <td>3位</td>
+    <td>-</td>
+    <td>8位</td>
+    <td>-</td>
+    <td>-</td>
+    <td>7位</td>
+    <td>6位</td>
+    <td>-</td>
+    <td>5位</td>
+    <td>6位</td>
   </tr>
   <tr align="center">
     <td>11位</td>
     <td align="left">#20 &nbsp; Fabio Quartararo（ファビオ・クアルタラロ） フランス <a href="https://www.motogp.com/ja/riders/fabio-quartararo/bf95d959-6a60-44f1-84b5-ded861e62578"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Yamaha / Monster Energy Yamaha MotoGP</td>
-    <td>73</td>
+    <td>82</td>
     <td>8位</td>
     <td>7位</td>
     <td>3位</td>
@@ -200,12 +211,13 @@ categories: バイク
     <td>-</td>
     <td>15位</td>
     <td>8位</td>
+    <td>7位</td>
   </tr>
   <tr align="center">
     <td>12位</td>
     <td align="left">#21 &nbsp; Franco Morbidelli（フランコ・モルビデリ） イタリア <a href="https://www.motogp.com/ja/riders/franco-morbidelli/4113c5f7-33c5-4246-b05b-3f81f4ddbd8f"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Yamaha / Monster Energy Yamaha MotoGP</td>
-    <td>65</td>
+    <td>67</td>
     <td>14位</td>
     <td>4位</td>
     <td>8位</td>
@@ -216,12 +228,13 @@ categories: バイク
     <td>9位</td>
     <td>14位</td>
     <td>11位</td>
+    <td>14位</td>
   </tr>
   <tr align="center">
     <td>13位</td>
     <td align="left">#37 &nbsp; Augusto Fernandez（アウグスト・フェルナンデス） スペイン <a href="https://www.motogp.com/ja/riders/augusto-fernandez/eb7f90b1-9373-4089-b2f5-adbc234a3526"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">KTM / GASGAS Factory Racing Tech3</td>
-    <td>51</td>
+    <td>58</td>
     <td>13位</td>
     <td>11位</td>
     <td>10位</td>
@@ -232,9 +245,27 @@ categories: バイク
     <td>10位</td>
     <td>10位</td>
     <td>14位</td>
+    <td>9位</td>
   </tr>
   <tr align="center">
     <td>14位</td>
+    <td align="left">#88 &nbsp; Miguel Oliveira（ミゲル・オリベイラ） ポルトガル <a href="https://www.motogp.com/ja/riders/miguel-oliveira/50b4fb1f-1785-4a9a-a65c-97d0de9daa22"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+    <td align="left">Aprilia / CryptoDATA RNF MotoGP Team</td>
+    <td>55</td>
+    <td>-</td>
+    <td>-</td>
+    <td>5位</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>10位</td>
+    <td>-</td>
+    <td>4位</td>
+    <td>-</td>
+    <td>5位</td>
+  </tr>
+  <tr align="center">
+    <td>15位</td>
     <td align="left">#42 &nbsp; Alex Rins（アレックス・リンス） スペイン <a href="https://www.motogp.com/ja/riders/alex-rins/04bf0ce4-5062-44fc-9745-ec85a8d8f8d3"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">Honda / LCR Honda Castrol</td>
     <td>47</td>
@@ -248,21 +279,6 @@ categories: バイク
     <td>-</td>
     <td>-</td>
     <td>-</td>
-  </tr>
-  <tr align="center">
-    <td>15位</td>
-    <td align="left">#88 &nbsp; Miguel Oliveira（ミゲル・オリベイラ） ポルトガル <a href="https://www.motogp.com/ja/riders/miguel-oliveira/50b4fb1f-1785-4a9a-a65c-97d0de9daa22"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
-    <td align="left">Aprilia / CryptoDATA RNF MotoGP Team</td>
-    <td>40</td>
-    <td>-</td>
-    <td>-</td>
-    <td>5位</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>10位</td>
-    <td>-</td>
-    <td>4位</td>
     <td>-</td>
   </tr>
   <!--
@@ -271,6 +287,7 @@ categories: バイク
     <td align="left">#?? &nbsp; ?（?） ? <a href=""><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
     <td align="left">? / ?</td>
     <td></td>
+    <td>位</td>
     <td>位</td>
     <td>位</td>
     <td>位</td>
