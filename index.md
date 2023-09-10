@@ -13,6 +13,7 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/moto-2023gp.html">MotoGP：第12戦サンマリノGPの成績を追加</a> （2023年09月10日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：第11戦スペイン・カタルーニャGPの成績を追加</a> （2023年09月04日）</li>
 <li><a href="pages/book-etc.html#somei">読書メモ：染井為人「悪い夏」</a> （2023年09月02日）</li>
 <li><a href="pages/book-etc.html#nagaimimi">読書メモ：永井みみ「ミシンと金魚」</a> （2023年08月31日）</li>
