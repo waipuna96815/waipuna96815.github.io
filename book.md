@@ -22,6 +22,7 @@ title: Waipuna - 読書
   <div class="tab-pane fade show active" id="post">
     <p class="mb-1">2023年</p>
     <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-yoshida.html#water">吉田修一「ウォーターゲーム」</a> （2023年09月18日）</li>
       <li><a href="pages/book-yoshida.html#mori">吉田修一「森は知っている」</a> （2023年09月10日）</li>
       <li><a href="pages/book-etc.html#somei">染井為人「悪い夏」</a> （2023年09月02日）</li>
       <li><a href="pages/book-etc.html#nagaimimi">永井みみ「ミシンと金魚」</a> （2023年08月31日）</li>

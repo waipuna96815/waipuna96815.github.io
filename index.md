@@ -13,6 +13,7 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/book-yoshida.html#water">読書メモ：吉田修一「ウォーターゲーム」</a> （2023年09月18日）</li>
 <li><a href="pages/book-yoshida.html#mori">読書メモ：吉田修一「森は知っている」</a> （2023年09月10日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：第12戦サンマリノGPの成績を追加</a> （2023年09月10日）</li>
 <li><a href="pages/moto-2023gp.html">MotoGP：第11戦スペイン・カタルーニャGPの成績を追加</a> （2023年09月04日）</li>
