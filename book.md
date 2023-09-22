@@ -22,6 +22,7 @@ title: Waipuna - 読書
   <div class="tab-pane fade show active" id="post">
     <p class="mb-1">2023年</p>
     <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-imamura2.html#ten">今村翔吾「イクサガミ　天」</a> （2023年09月22日）</li>
       <li><a href="pages/book-yoshida.html#water">吉田修一「ウォーターゲーム」</a> （2023年09月18日）</li>
       <li><a href="pages/book-yoshida.html#mori">吉田修一「森は知っている」</a> （2023年09月10日）</li>
       <li><a href="pages/book-etc.html#somei">染井為人「悪い夏」</a> （2023年09月02日）</li>
@@ -104,6 +105,7 @@ title: Waipuna - 読書
       <li><a href="pages/book-etc.html#awasaka">泡坂 妻夫（あわさか つまお）</a></li>
       <li><a href="pages/book-isaka.html">伊坂 幸太郎（いさか こうたろう）</a></li>
       <li><a href="pages/book-etc.html#ishimochi">石持 浅海（いしもち あさみ）</a></li>
+      <li><a href="pages/book-imamura2.html">今村 翔吾</a></li>
       <li><a href="pages/book-imamura.html">今村 翔吾（いまむら しょうご）くらまし屋稼業シリーズ</a></li>
       <li><a href="pages/book-etc.html#utada">歌田 年（うただ とし）</a></li>
       <li><a href="pages/book-okura.html">大倉 崇裕（おおくら たかひろ）</a></li>
