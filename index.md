@@ -13,6 +13,8 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/book-higashino2.html">読書メモ：東野圭吾「マスカレード・ナイト」</a> （2023年10月17日）</li>
+<li><a href="pages/book-higashino2.html">読書メモ：東野圭吾「マスカレード・ゲーム」</a> （2023年09月28日）</li>
 <li><a href="pages/book-imamura2.html#ten">読書メモ：今村翔吾「イクサガミ　天」</a> （2023年09月22日）</li>
 <li><a href="pages/book-yoshida.html#water">読書メモ：吉田修一「ウォーターゲーム」</a> （2023年09月18日）</li>
 <li><a href="pages/book-yoshida.html#mori">読書メモ：吉田修一「森は知っている」</a> （2023年09月10日）</li>

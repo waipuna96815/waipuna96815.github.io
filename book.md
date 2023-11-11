@@ -22,6 +22,8 @@ title: Waipuna - 読書
   <div class="tab-pane fade show active" id="post">
     <p class="mb-1">2023年</p>
     <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-higashino2.html">東野圭吾「マスカレード・ナイト」</a> （2023年10月17日）</li>
+      <li><a href="pages/book-higashino2.html">東野圭吾「マスカレード・ゲーム」</a> （2023年09月28日）</li>
       <li><a href="pages/book-imamura2.html#ten">今村翔吾「イクサガミ　天」</a> （2023年09月22日）</li>
       <li><a href="pages/book-yoshida.html#water">吉田修一「ウォーターゲーム」</a> （2023年09月18日）</li>
       <li><a href="pages/book-yoshida.html#mori">吉田修一「森は知っている」</a> （2023年09月10日）</li>
@@ -164,6 +166,7 @@ title: Waipuna - 読書
       <li><a href="pages/book-ban.html">幡 大介（ばん だいすけ）八巻卯之吉 放浪記 大富豪同心</a></li>
       <li><a href="pages/book-etc.html#higashikawa">東川 篤哉（ひがしがわ とくや）</a></li>
       <li><a href="pages/book-higashino.html">東野 圭吾（ひがしの けいご）</a></li>
+      <li><a href="pages/book-higashino2.html">東野 圭吾（ひがしの けいご）マスカレードシリーズ</a></li>
       <li><a href="pages/book-etc.html#horiuchi">堀内 都喜子（ほりうち ときこ）</a></li>
     </ul>
     <p class="mb-1">ま行</p>
