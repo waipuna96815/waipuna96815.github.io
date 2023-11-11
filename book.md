@@ -22,8 +22,10 @@ title: Waipuna - 読書
   <div class="tab-pane fade show active" id="post">
     <p class="mb-1">2023年</p>
     <ul class="list-unstyled ms-3">
-      <li><a href="pages/book-higashino2.html">東野圭吾「マスカレード・ナイト」</a> （2023年10月17日）</li>
-      <li><a href="pages/book-higashino2.html">東野圭吾「マスカレード・ゲーム」</a> （2023年09月28日）</li>
+      <li><a href="pages/book-yoshida2.html#1">吉田修一「横道世之介」</a> （2023年11月11日）</li>
+      <li><a href="pages/book-fujino.html#jii">藤野千夜「じい散歩」</a> （2023年11月06日）</li>
+      <li><a href="pages/book-higashino2.html#night">東野圭吾「マスカレード・ナイト」</a> （2023年10月17日）</li>
+      <li><a href="pages/book-higashino2.html#game">東野圭吾「マスカレード・ゲーム」</a> （2023年09月28日）</li>
       <li><a href="pages/book-imamura2.html#ten">今村翔吾「イクサガミ　天」</a> （2023年09月22日）</li>
       <li><a href="pages/book-yoshida.html#water">吉田修一「ウォーターゲーム」</a> （2023年09月18日）</li>
       <li><a href="pages/book-yoshida.html#mori">吉田修一「森は知っている」</a> （2023年09月10日）</li>
@@ -167,6 +169,7 @@ title: Waipuna - 読書
       <li><a href="pages/book-etc.html#higashikawa">東川 篤哉（ひがしがわ とくや）</a></li>
       <li><a href="pages/book-higashino.html">東野 圭吾（ひがしの けいご）</a></li>
       <li><a href="pages/book-higashino2.html">東野 圭吾（ひがしの けいご）マスカレードシリーズ</a></li>
+      <li><a href="pages/book-fujino.html">藤野 千夜（ふじの ちや）</a></li>
       <li><a href="pages/book-etc.html#horiuchi">堀内 都喜子（ほりうち ときこ）</a></li>
     </ul>
     <p class="mb-1">ま行</p>
@@ -181,7 +184,8 @@ title: Waipuna - 読書
     <ul class="list-unstyled ms-3">
       <li><a href="pages/book-etc.html#yaguchi">矢口 高雄（やぐち たかお）</a></li>
       <li><a href="pages/book-etc.html#yamada">山田 香織（やまだ かおり）</a></li>
-      <li><a href="pages/book-yoshida.html">吉田 修一（よしだ しゅういち）</a></li>
+      <li><a href="pages/book-yoshida.html">吉田 修一（よしだ しゅういち）鷹野一彦シリーズ</a></li>
+      <li><a href="pages/book-yoshida2.html">吉田 修一（よしだ しゅういち）横道世之介シリーズ</a></li>
       <li><a href="pages/book-etc.html#yonezawa">米澤 穂信（よねざわ ほのぶ）</a></li>
     </ul>
     <p class="mb-1">わ行</p>

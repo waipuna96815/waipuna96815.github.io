@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 読書メモ：吉田修一
+title: 読書メモ：吉田修一　鷹野一彦シリーズ
 date: 2023-09-18
 categories: 読書
 ---
