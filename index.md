@@ -13,6 +13,17 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/book-isaka.html#audubon">読書メモ：伊坂幸太郎「オーデュボンの祈り」</a> （2023年12月31日）</li>
+<li><a href="pages/book-etc.html#yuki">読書メモ：夕木春央「方舟」</a> （2023年12月29日）</li>
+<li><a href="pages/book-yoshida2.html#2">読書メモ：吉田修一「続 横道世之介」</a> （2023年12月10日）</li>
+<li><a href="pages/book-saijo.html#inkyo2">読書メモ：西條奈加「隠居おてだま」</a> （2023年12月03日）</li>
+<li><a href="pages/book-kurono.html#genkai">読書メモ：黒野伸一「限界集落株式会社」</a> （2023年12月01日）</li>
+<li><a href="pages/book-imamura2.html#chi">読書メモ：今村翔吾「イクサガミ　地」</a> （2023年11月28日）</li>
+<li><a href="pages/book-miyajima.html#naruse">読書メモ：宮島未奈「成瀬は天下を取りにいく」</a> （2023年11月26日）</li>
+<li><a href="pages/book-miyabe2.html#reiken">読書メモ：宮部みゆき「震える岩 霊験お初捕物控」</a> （2023年11月23日）</li>
+<li><a href="pages/book-etc.html#sakurazaka">読書メモ：桜坂洋「All You Need Is Kill」</a> （2023年11月19日）</li>
+<li><a href="pages/book-isaka.html#golden">読書メモ：伊坂幸太郎「ゴールデンスランバー」</a> （2023年11月18日）</li>
+<li><a href="pages/book-wakatake.html#4">読書メモ：若竹七海「さよならの手口」</a> （2023年11月17日）</li>
 <li><a href="pages/book-saijo.html#gomess">読書メモ：西條奈加「金春屋ゴメス」</a> （2023年11月16日）</li>
 <li><a href="pages/book-yoshida2.html#1">読書メモ：吉田修一「横道世之介」</a> （2023年11月11日）</li>
 <li><a href="pages/book-fujino.html#jii">読書メモ：藤野千夜「じい散歩」</a> （2023年11月06日）</li>
@@ -73,7 +84,7 @@ title: Waipuna - トップ
 <li><a href="pages/book-osawa.html">読書メモ：大沢在昌</a> （2022年10月03日）</li>
 <li><a href="pages/book-higashino.html">読書メモ：東野圭吾</a> （2022年10月02日）</li>
 <li><a href="pages/book-horowitz.html">読書メモ：アンソニー・ホロヴィッツ（山田蘭 訳）</a> （2022年09月30日）</li>
-<li><a href="pages/book-saijo.html">読書メモ：西條奈加「隠居すごろく」</a> （2022年09月15日）</li>
+<li><a href="pages/book-saijo.html#inkyo">読書メモ：西條奈加「隠居すごろく」</a> （2022年09月15日）</li>
 <li><a href="pages/book-konno3.html">読書メモ：今野敏　任侠シリーズ</a> （2022年09月11日）</li>
 <li><a href="pages/book-mori.html">読書メモ：森博嗣</a> （2022年08月22日）</li>
 <li><a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2022年08月10日）</li>

@@ -22,6 +22,17 @@ title: Waipuna - 読書
   <div class="tab-pane fade show active" id="post">
     <p class="mb-1">2023年</p>
     <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-isaka.html#audubon">伊坂幸太郎「オーデュボンの祈り」</a> （2023年12月31日）</li>
+      <li><a href="pages/book-etc.html#yuki">夕木春央「方舟」</a> （2023年12月29日）</li>
+      <li><a href="pages/book-yoshida2.html#2">吉田修一「続 横道世之介」</a> （2023年12月10日）</li>
+      <li><a href="pages/book-saijo.html#inkyo2">西條奈加「隠居おてだま」</a> （2023年12月03日）</li>
+      <li><a href="pages/book-kurono.html#genkai">黒野伸一「限界集落株式会社」</a> （2023年12月01日）</li>
+      <li><a href="pages/book-imamura2.html#chi">今村翔吾「イクサガミ　地」</a> （2023年11月28日）</li>
+      <li><a href="pages/book-miyajima.html#naruse">宮島未奈「成瀬は天下を取りにいく」</a> （2023年11月26日）</li>
+      <li><a href="pages/book-miyabe2.html#reiken">宮部みゆき「震える岩 霊験お初捕物控」</a> （2023年11月23日）</li>
+      <li><a href="pages/book-etc.html#sakurazaka">桜坂洋「All You Need Is Kill」</a> （2023年11月19日）</li>
+      <li><a href="pages/book-isaka.html#golden">伊坂幸太郎「ゴールデンスランバー」</a> （2023年11月18日）</li>
+      <li><a href="pages/book-wakatake.html#4">若竹七海「さよならの手口」</a> （2023年11月17日）</li>
       <li><a href="pages/book-saijo.html#gomess">西條奈加「金春屋ゴメス」</a> （2023年11月16日）</li>
       <li><a href="pages/book-yoshida2.html#1">吉田修一「横道世之介」</a> （2023年11月11日）</li>
       <li><a href="pages/book-fujino.html#jii">藤野千夜「じい散歩」</a> （2023年11月06日）</li>
@@ -110,7 +121,7 @@ title: Waipuna - 読書
       <li><a href="pages/book-etc.html#awasaka">泡坂 妻夫（あわさか つまお）</a></li>
       <li><a href="pages/book-isaka.html">伊坂 幸太郎（いさか こうたろう）</a></li>
       <li><a href="pages/book-etc.html#ishimochi">石持 浅海（いしもち あさみ）</a></li>
-      <li><a href="pages/book-imamura2.html">今村 翔吾</a></li>
+      <li><a href="pages/book-imamura2.html">今村 翔吾（いまむら しょうご）</a></li>
       <li><a href="pages/book-imamura.html">今村 翔吾（いまむら しょうご）くらまし屋稼業シリーズ</a></li>
       <li><a href="pages/book-etc.html#utada">歌田 年（うただ とし）</a></li>
       <li><a href="pages/book-okura.html">大倉 崇裕（おおくら たかひろ）</a></li>
@@ -126,6 +137,7 @@ title: Waipuna - 読書
       <li><a href="pages/book-etc.html#kaji">梶 よう子（かじ ようこ）</a></li>
       <li><a href="pages/book-kishi.html">貴志 祐介（きし ゆうすけ）防犯探偵・榎本シリーズ</a></li>
       <li><a href="pages/book-etc.html#kimoto">木元 哉多（きもと かなた）</a></li>
+      <li><a href="pages/book-kurono.html">黒野 伸一（くろの しんいち）</a></li>
       <li><a href="pages/book-konno2.html">今野 敏（こんの びん）</a></li>
       <li><a href="pages/book-konno.html">今野 敏（こんの びん）隠蔽捜査シリーズ</a></li>
       <li><a href="pages/book-konno3.html">今野 敏（こんの びん）任侠シリーズ</a></li>
@@ -138,6 +150,7 @@ title: Waipuna - 読書
       <li><a href="pages/book-saeki.html">佐伯 泰英（さえき やすひで）居眠り磐音 決定版シリーズ</a></li>
       <li><a href="pages/book-saeki2.html">佐伯 泰英（さえき やすひで）照降町四季シリーズ</a></li>
       <li><a href="pages/book-etc.html#sakagami">坂上 泉（さかがみ いずみ）</a></li>
+      <li><a href="pages/book-etc.html#sakurazaka">桜坂 洋（さくらざか ひろし）</a></li>
       <li><a href="pages/book-sakurada.html">櫻田 智也（さくらだ ともや）魞沢泉シリーズ</a></li>
       <li><a href="pages/book-etc.html#shinkawa">新川 帆立（しんかわ ほたて）</a></li>
       <li><a href="pages/book-etc.html#somei">染井 為人（そめい ためひと）</a></li>
@@ -153,8 +166,8 @@ title: Waipuna - 読書
     </ul>
     <p class="mb-1">な行</p>
     <ul class="list-unstyled ms-3">
-      <li><a href="pages/book-etc.html#nagai">永井紗耶子（ながい さやこ）</a></li>
-      <li><a href="pages/book-etc.html#nagaimimi">永井みみ（ながい みみ）</a></li>
+      <li><a href="pages/book-etc.html#nagai">永井 紗耶子（ながい さやこ）</a></li>
+      <li><a href="pages/book-etc.html#nagaimimi">永井 みみ（ながい みみ）</a></li>
       <li><a href="pages/book-etc.html#nagaura">長浦 京（ながうら きょう）</a></li>
       <li><a href="pages/book-etc.html#nishio">西尾 維新（にしお いしん）</a></li>
       <li><a href="pages/book-etc.html#nishimura">西村 京太郎（にしむら きょうたろう）</a></li>
@@ -176,6 +189,7 @@ title: Waipuna - 読書
     <p class="mb-1">ま行</p>
     <ul class="list-unstyled ms-3">
       <li><a href="pages/book-mayama.html">真山 仁（まやま じん）</a></li>
+      <li><a href="pages/book-miyajima.html">宮島 未奈（みやじま みな）</a></li>
       <li><a href="pages/book-miyabe.html">宮部 みゆき（みやべ みゆき）現代小説</a></li>
       <li><a href="pages/book-miyabe2.html">宮部 みゆき（みやべ みゆき）時代小説</a></li>
       <li><a href="pages/book-mori.html">森 博嗣（もり ひろし）</a></li>
@@ -185,6 +199,7 @@ title: Waipuna - 読書
     <ul class="list-unstyled ms-3">
       <li><a href="pages/book-etc.html#yaguchi">矢口 高雄（やぐち たかお）</a></li>
       <li><a href="pages/book-etc.html#yamada">山田 香織（やまだ かおり）</a></li>
+      <li><a href="pages/book-etc.html#yuki">夕木 春央（ゆうき はるお）</a></li>
       <li><a href="pages/book-yoshida.html">吉田 修一（よしだ しゅういち）鷹野一彦シリーズ</a></li>
       <li><a href="pages/book-yoshida2.html">吉田 修一（よしだ しゅういち）横道世之介シリーズ</a></li>
       <li><a href="pages/book-etc.html#yonezawa">米澤 穂信（よねざわ ほのぶ）</a></li>
