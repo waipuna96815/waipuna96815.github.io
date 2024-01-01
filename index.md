@@ -11,6 +11,11 @@ title: Waipuna - トップ
 
 ---
 
+<p class="mb-1">2024年</p>
+<ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/moto-2023gp.html">MotoGP：2023年の成績を総括</a> （2024年01月02日）</li>
+</ul>
+
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
 <li><a href="pages/book-isaka.html#audubon">読書メモ：伊坂幸太郎「オーデュボンの祈り」</a> （2023年12月31日）</li>
