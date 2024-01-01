@@ -13,6 +13,7 @@ title: Waipuna - トップ
 
 <p class="mb-1">2023年</p>
 <ul class="list-unstyled ms-3 mb-1">
+<li><a href="pages/book-saijo.html#gomess">読書メモ：西條奈加「金春屋ゴメス」</a> （2023年11月16日）</li>
 <li><a href="pages/book-yoshida2.html#1">読書メモ：吉田修一「横道世之介」</a> （2023年11月11日）</li>
 <li><a href="pages/book-fujino.html#jii">読書メモ：藤野千夜「じい散歩」</a> （2023年11月06日）</li>
 <li><a href="pages/book-higashino2.html#night">読書メモ：東野圭吾「マスカレード・ナイト」</a> （2023年10月17日）</li>
