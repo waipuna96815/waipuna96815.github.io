@@ -13,7 +13,8 @@ title: Waipuna - トップ
 
 <p class="mb-1">2024年</p>
 <ul class="list-unstyled ms-3 mb-1">
-<li><a href="pages/moto-2023gp.html">MotoGP：2023年の成績を総括</a> （2024年01月02日）</li>
+<li><a href="pages/moto-2024gp.html#calendar">MotoGP：2024 カレンダー</a> （2024年01月02日）</li>
+<li><a href="pages/moto-2023gp.html">MotoGP：2023 成績の総括</a> （2024年01月02日）</li>
 </ul>
 
 <p class="mb-1">2023年</p>
