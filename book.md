@@ -22,6 +22,7 @@ title: Waipuna - 読書
   <div class="tab-pane fade show active" id="post">
     <p class="mb-1">2024年</p>
     <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-hatakenaka.html#shabake">畠中恵「しゃばけ」</a> （2024年01月11日）</li>
       <li><a href="pages/book-miyabe2.html#bonkura">宮部みゆき「ぼんくら」</a> （2024年01月08日）</li>
     </ul>
     <p class="mb-1">2023年</p>
@@ -180,6 +181,7 @@ title: Waipuna - 読書
     <ul class="list-unstyled ms-3">
       <li><a href="pages/book-hashimoto.html">橋本 長道（はしもと ちょうどう）</a></li>
       <li><a href="pages/book-hase.html">馳星 周（はせ せいしゅう）</a></li>
+      <li><a href="pages/book-hatakenaka.html">畠中 恵（はたけなか めぐみ）</a></li>
       <li><a href="pages/book-etc.html#harada">原田 マハ（はらだ まは）</a></li>
       <li><a href="pages/book-etc.html#hayasaka">早坂 吝（はやさか やぶさか）</a></li>
       <li><a href="pages/book-etc.html#hayami">早見 和真（はやみ かずまさ）</a></li>
