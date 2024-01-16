@@ -20,6 +20,10 @@ title: Waipuna - 読書
 </ul>
 <div class="tab-content">
   <div class="tab-pane fade show active" id="post">
+    <p class="mb-1">2024年</p>
+    <ul class="list-unstyled ms-3">
+      <li><a href="pages/book-miyabe2.html#bonkura">宮部みゆき「ぼんくら」</a> （2024年01月08日）</li>
+    </ul>
     <p class="mb-1">2023年</p>
     <ul class="list-unstyled ms-3">
       <li><a href="pages/book-isaka.html#audubon">伊坂幸太郎「オーデュボンの祈り」</a> （2023年12月31日）</li>
